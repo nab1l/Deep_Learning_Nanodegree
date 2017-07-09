@@ -4,6 +4,7 @@ import copy
 import numpy as np
 
 
+
 CODES = {'<PAD>': 0, '<EOS>': 1, '<UNK>': 2, '<GO>': 3 }
 
 
